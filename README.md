@@ -26,6 +26,6 @@ Bem-vindo ao meu perfil! Sou um estudante de Análise e desenvolvimento de siste
 ## 📫 Como me encontrar
 - LinkedIn: [Gabriel Bertele Pinheiro](https://www.linkedin.com/in/gabriel-bertele-2566762b7/)
 - Email: [gabrielbertele@gmail.com](mailto:gabrielbertele@gmail.com)
-- 
+  
 
 ---
