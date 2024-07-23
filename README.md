@@ -30,4 +30,3 @@ Bem-vindo ao meu perfil! Sou um estudante de Análise e desenvolvimento de siste
 
 ---
 
-![snake gif](https://github.com/GabrielBertele/GabrielBertele/blob/output/github-contribution-grid-snake.svg)
