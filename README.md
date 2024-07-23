@@ -1,4 +1,4 @@
-# Olá! Eu sou o Gabriel Bertele Pinheiro 👋
+# Olá! Me chamo Gabriel Bertele Pinheiro 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Bertele%20Pinheiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-bertele-2566762b7/)](https://www.linkedin.com/in/gabriel-bertele-2566762b7/)
 [![Gmail Badge](https://img.shields.io/badge/-gabrielbertele@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielbertele@gmail.com)](mailto:gabrielbertele@gmail.com)
