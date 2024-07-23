@@ -3,7 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Bertele%20Pinheiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-bertele-2566762b7/)](https://www.linkedin.com/in/gabriel-bertele-2566762b7/)
 [![Gmail Badge](https://img.shields.io/badge/-gabrielbertele@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielbertele@gmail.com)](mailto:gabrielbertele@gmail.com)
 
-Bem-vindo ao meu perfil GitHub! Sou um estudante de Direito com uma paixão por tecnologia e desenvolvimento web. Estou constantemente aprendendo e buscando novos desafios. Aqui você encontrará alguns dos meus projetos pessoais e contribuições.
+Bem-vindo ao meu perfil! Sou um estudante de Análise e desenvolvimento de sistemas na Universidade do Vale do Rio dos Sinos (Unisinos). Estou em constante evolução e tenh conhecimento universitário em linguagens de marcação como HTML5![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 🌐
+ e CSS3![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 🎨
+, e em linguagens de programação como JavaScript, Python, SQL 
 
 ## 🔧 Tecnologias e Ferramentas
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
