@@ -15,9 +15,9 @@ Bem-vindo ao meu perfil! Sou um estudante de Análise e desenvolvimento de siste
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 🏆 Projetos
-- [**Projeto Cafeteria**](https://github.com/GabrielBertele/projeto-cafeteria): Um site para uma cafeteria localizada dentro de uma faculdade, com funcionalidades de avaliação de pedidos.
-- [**Emagrecimento App**](https://github.com/GabrielBertele/emagrecimento-app): Uma aplicação para ajudar usuários a gerenciar suas rotinas de exercícios e dietas.
-- [**Portal de Direito**](https://github.com/GabrielBertele/portal-direito): Um portal com recursos e materiais para estudantes de Direito.
+- [**Projeto Finans**](https://github.com/GabrielBertele/FifthProject): Um site para uma empresa de gestão de finanças.
+- [**Cafeteria Unisinos**](https://github.com/GabrielBertele/SixthProject): Um site simulando uma cafeteria sistuada na faculade Unisinos.
+-
 
 ## 📈 Estatísticas
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBertele&show_icons=true&theme=radical)
